@@ -73,8 +73,8 @@ declare global {
       IFLYTEK_API_KEY?: string;
       IFLYTEK_API_SECRET?: string;
 
-      DEEPSEEK_URL?: string;
-      DEEPSEEK_API_KEY?: string;
+      DEEPSEEK_URL?: https://api.deepseek.com/v1;
+      DEEPSEEK_API_KEY?: sk-dd89d11965e744eda84c1abc327d522b;
 
       // xai only
       XAI_URL?: string;
